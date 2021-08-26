@@ -1,0 +1,10 @@
+*{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    font-family: cursive, Helvetica, sans-serif;
+}
+.texto{
+    text-align: justify;
+}
